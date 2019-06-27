@@ -1,0 +1,9 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\bin\Debug\Subsidy.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\bin\Debug\Subsidy.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\obj\Debug\Subsidy.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\obj\Debug\Subsidy.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\obj\Debug\Subsidy.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\obj\Debug\Subsidy.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\bin\Debug\Constitution.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\bin\Debug\Constitution.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Subsidy\obj\Debug\Subsidy.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\HR\bin\Debug\HR.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\HR\bin\Debug\HR.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\HR\obj\Debug\HR.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\HR\obj\Debug\HR.pdb

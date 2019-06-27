@@ -1,0 +1,10 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\bin\Debug\Test.exe.config
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\bin\Debug\Test.exe
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\bin\Debug\Test.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\obj\Debug\Test.exe
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Test\obj\Debug\Test.pdb

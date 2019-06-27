@@ -1,0 +1,5 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Constitution\bin\Debug\Constitution.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Constitution\bin\Debug\Constitution.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Constitution\obj\Debug\Constitution.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Constitution\obj\Debug\Constitution.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Constitution\obj\Debug\Constitution.pdb

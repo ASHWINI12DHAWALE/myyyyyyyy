@@ -1,0 +1,9 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\bin\Debug\Policy.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\bin\Debug\Policy.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\obj\Debug\Policy.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\obj\Debug\Policy.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\obj\Debug\Policy.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\obj\Debug\Policy.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\bin\Debug\Constitution.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\bin\Debug\Constitution.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Policy\obj\Debug\Policy.csproj.CopyComplete

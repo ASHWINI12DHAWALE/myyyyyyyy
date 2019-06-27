@@ -1,0 +1,6 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\TestCSharpFeatures\bin\Debug\TestCSharpFeatures.exe.config
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\TestCSharpFeatures\bin\Debug\TestCSharpFeatures.exe
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\TestCSharpFeatures\bin\Debug\TestCSharpFeatures.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\TestCSharpFeatures\obj\Debug\TestCSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\TestCSharpFeatures\obj\Debug\TestCSharpFeatures.exe
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\TestCSharpFeatures\obj\Debug\TestCSharpFeatures.pdb

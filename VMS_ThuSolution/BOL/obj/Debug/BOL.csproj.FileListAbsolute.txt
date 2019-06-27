@@ -1,0 +1,5 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\BOL\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\BOL\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\BOL\obj\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\BOL\obj\Debug\BOL.pdb

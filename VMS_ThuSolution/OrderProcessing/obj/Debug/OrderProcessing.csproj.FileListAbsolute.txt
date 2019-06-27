@@ -1,0 +1,5 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\OrderProcessing\bin\Debug\OrderProcessing.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\OrderProcessing\bin\Debug\OrderProcessing.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\OrderProcessing\obj\Debug\OrderProcessing.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\OrderProcessing\obj\Debug\OrderProcessing.pdb
